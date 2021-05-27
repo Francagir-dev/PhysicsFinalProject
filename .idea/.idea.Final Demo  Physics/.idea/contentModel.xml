@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Francagir\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Francagir\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Final Demo  Physics.627740908.00" t="ExcludeRecursive" />
+    <e p="D:\Final Demo  Physics" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AutomaticCanon.cs" t="Include" />
+          <e p="Ball.cs" t="Include" />
+          <e p="BallActions.cs" t="Include" />
+          <e p="Constants.cs" t="Include" />
+          <e p="CountEnemiesAchieved.cs" t="Include" />
+          <e p="CountEnemy.cs" t="Include" />
+          <e p="DeleteNemy.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="LanzamientoBola.cs" t="Include" />
+          <e p="MouseLook.cs" t="Include" />
+          <e p="MoveToCastle.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="RotateCanons.cs" t="Include" />
+          <e p="SpawnEnemy.cs" t="Include" />
+          <e p="StopExplosion.cs" t="Include" />
+          <e p="Vector.cs" t="Include" />
+        </e>
+        <e p="SteamAudio" t="Include">
+          <e p="AudioEngine.cs" t="Include" />
+          <e p="AudioEngineAmbisonicsSource.cs" t="Include" />
+          <e p="AudioEngineAmbisonicsSource_Unity.cs" t="Include" />
+          <e p="AudioEngineAmbisonicsSourceFactory.cs" t="Include" />
+          <e p="AudioEngineSource.cs" t="Include" />
+          <e p="AudioEngineSource_Unity.cs" t="Include" />
+          <e p="AudioEngineSourceFactory.cs" t="Include" />
+          <e p="AudioEngineState.cs" t="Include" />
+          <e p="AudioEngineState_Unity.cs" t="Include" />
+          <e p="AudioEngineStateFactory.cs" t="Include" />
+          <e p="Baker.cs" t="Include" />
+          <e p="Common.cs" t="Include" />
+          <e p="ComponentCache.cs" t="Include" />
+          <e p="ComputeDevice.cs" t="Include" />
+          <e p="Core.cs" t="Include" />
+          <e p="Core_Unity.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="Build.cs" t="Include" />
+            <e p="MaterialValueDrawer.cs" t="Include" />
+            <e p="SimulationSettingsValueDrawer.cs" t="Include" />
+            <e p="SteamAudioAmbisonicsSourceInspector.cs" t="Include" />
+            <e p="SteamAudioBakedStaticListenerNodeInspector.cs" t="Include" />
+            <e p="SteamAudioCustomSettingsInspector.cs" t="Include" />
+            <e p="SteamAudioDynamicObjectInspector.cs" t="Include" />
+            <e p="SteamAudioGeometryInspector.cs" t="Include" />
+            <e p="SteamAudioListenerInspector.cs" t="Include" />
+            <e p="SteamAudioManagerInspector.cs" t="Include" />
+            <e p="SteamAudioMaterialInspector.cs" t="Include" />
+            <e p="SteamAudioMixerReturnGUI.cs" t="Include" />
+            <e p="SteamAudioProbeBoxInspector.cs" t="Include" />
+            <e p="SteamAudioReverbGUI.cs" t="Include" />
+            <e p="SteamAudioSourceInspector.cs" t="Include" />
+            <e p="SteamAudioWindow.cs" t="Include" />
+          </e>
+          <e p="Environment.cs" t="Include" />
+          <e p="GameEngineState.cs" t="Include" />
+          <e p="ManagerData.cs" t="Include" />
+          <e p="MaterialPreset.cs" t="Include" />
+          <e p="MaterialPresetList.cs" t="Include" />
+          <e p="MaterialValue.cs" t="Include" />
+          <e p="ProbeManager.cs" t="Include" />
+          <e p="RayTracer.cs" t="Include" />
+          <e p="Scene.cs" t="Include" />
+          <e p="SceneExporter.cs" t="Include" />
+          <e p="SimulationSettingsPreset.cs" t="Include" />
+          <e p="SimulationSettingsPresetList.cs" t="Include" />
+          <e p="SimulationSettingsValue.cs" t="Include" />
+          <e p="SteamAudioAmbisonicsSource.cs" t="Include" />
+          <e p="SteamAudioBakedStaticListenerNode.cs" t="Include" />
+          <e p="SteamAudioCustomSettings.cs" t="Include" />
+          <e p="SteamAudioCustomSpeakerLayout.cs" t="Include" />
+          <e p="SteamAudioDynamicObject.cs" t="Include" />
+          <e p="SteamAudioGeometry.cs" t="Include" />
+          <e p="SteamAudioListener.cs" t="Include" />
+          <e p="SteamAudioManager.cs" t="Include" />
+          <e p="SteamAudioMaterial.cs" t="Include" />
+          <e p="SteamAudioProbeBox.cs" t="Include" />
+          <e p="SteamAudioSource.cs" t="Include" />
+          <e p="Version.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Final Demo  Physics.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

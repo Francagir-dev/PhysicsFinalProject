@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f822a4f-3acf-4056-a6ea-3161d9af7d49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutomaticCanon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CountEnemiesAchieved.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateCanons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StopExplosion.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallCollision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RotateCanons.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball Collision.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Constants.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/StopExplosion.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SpawnEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DeleteNemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WallCastle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Prefab/ALgoritmos.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveToCastle.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallActions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CountEnemiesAchieved.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Ball.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AutomaticCanon.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LanzamientoBola.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1lf86ePXMK9jVwlWlzUHijp0uKk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f822a4f-3acf-4056-a6ea-3161d9af7d49" name="Default Changelist" comment="" />
+      <created>1607976614239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607976614239</updated>
+      <workItem from="1607976638245" duration="229000" />
+      <workItem from="1608020939339" duration="1236000" />
+      <workItem from="1608042327607" duration="2701000" />
+      <workItem from="1608112171250" duration="13934000" />
+      <workItem from="1608186874361" duration="8397000" />
+      <workItem from="1608210848684" duration="6900000" />
+      <workItem from="1608234326423" duration="1067000" />
+      <workItem from="1608303174720" duration="605000" />
+      <workItem from="1608367091980" duration="2003000" />
+      <workItem from="1608369297959" duration="4250000" />
+      <workItem from="1608392291584" duration="2199000" />
+      <workItem from="1608394571980" duration="2743000" />
+      <workItem from="1608397545743" duration="470000" />
+      <workItem from="1608411295538" duration="177000" />
+      <workItem from="1608411730986" duration="1243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
